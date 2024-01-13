@@ -1,0 +1,35 @@
+/* #cadastro.show {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#cadastro.show h2 {
+    width: 100%;
+    text-align: flex-start;
+    margin-bottom: 15px;
+}
+
+#cadastro.show form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+#cadastro.show label {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+#cadastro.show form input {
+    margin-bottom: 10px;
+}
+
+#cadastro.show button {
+    padding: 3px 30px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+} */

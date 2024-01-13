@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: salmon;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+main {
+  padding: 5vh 0;
+  height: 100%;
+}
+
+footer {
+  background-color: #333;
+  height: 35px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.logo {
+  text-align: center;
+}
+
+.input-form {
+  border-radius: 6px;
+}
